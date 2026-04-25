@@ -20,6 +20,7 @@ A production-ready automation pipeline built with Python that fetches live data 
 - **Windows Task Scheduler** — daily automated execution
 
 ## Project Structure
+```
 automation/
 ├── main.py                  # Entry point
 ├── config.py                # Configuration and env variables
@@ -40,7 +41,7 @@ automation/
 │   └── app.log              # Execution logs
 └── tests/
 └── test_file_organizer.py
-
+```
 ## How It Works
 API (Internet) → Fetch Data → Change Detection → CSV Analysis → AI Report → Email Delivery
 
