@@ -81,8 +81,6 @@ OUTPUT_FOLDER=data/output
 
 > **Note:** Use a Gmail App Password, not your regular password. Generate one at: https://myaccount.google.com/apppasswords
 
-> **Note:** Use a Gmail App Password, not your regular password. Generate one at: https://myaccount.google.com/apppasswords
-
 ### 4. Run the pipeline
 ```bash
 python main.py
