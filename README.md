@@ -64,16 +64,22 @@ pip install -r requirements.txt
 ```
 
 ### 3. Configure environment variables
+
 ```bash
 cp .env.example .env
 ```
 
 Edit `.env` with your values:
+
+```env
 SENDER_EMAIL=your_email@gmail.com
 EMAIL_PASSWORD=your_gmail_app_password
 RECEIVER_EMAIL=receiver@gmail.com
 INPUT_FOLDER=data/incoming_files
 OUTPUT_FOLDER=data/output
+```
+
+> **Note:** Use a Gmail App Password, not your regular password. Generate one at: https://myaccount.google.com/apppasswords
 
 > **Note:** Use a Gmail App Password, not your regular password. Generate one at: https://myaccount.google.com/apppasswords
 
