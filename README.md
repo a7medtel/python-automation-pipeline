@@ -101,8 +101,5 @@ python main.py
 - **Data Normalization** — cleaning column names before processing
 - **Logging** — persistent operation history
 
-## Author
-**Ahmed El-Telbani**
-Automation Engineer | Python | n8n | AI Workflows
 
 [![GitHub](https://img.shields.io/badge/GitHub-a7medtel-black?logo=github)](https://github.com/a7medtel)
